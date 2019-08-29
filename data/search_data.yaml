@@ -1,0 +1,13 @@
+test_search:
+  test_search_001:
+    item: '小牛电动车'
+    index: '1'
+  test_search_002:
+    item: '飞科剃须刀'
+    index: '2'
+  test_search_003:
+    item: '西门子冰箱'
+    index: '3'
+  test_search_004:
+    item: '小米手机6'
+    index: '4'

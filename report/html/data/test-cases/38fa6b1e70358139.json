@@ -1,0 +1,177 @@
+{
+  "uid" : "38fa6b1e70358139",
+  "name" : "截图功能测试",
+  "fullName" : "scripts.test_open_goods.TestOpenGoods#test_open_goods",
+  "historyId" : "b37a9a0412a8a34a087fcf775d60537e",
+  "time" : {
+    "start" : 1567011214440,
+    "stop" : 1567011222513,
+    "duration" : 8073
+  },
+  "description" : "\n        这个用例测试京东网页商品界面的截图功能\n        :param args:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    这个用例测试京东网页商品界面的截图功能\n    :param args:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1567011201601,
+      "stop" : 1567011214439,
+      "duration" : 12838
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "\n        这个用例测试京东网页商品界面的截图功能\n        :param args:\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入商品名称",
+      "time" : {
+        "start" : 1567011214445,
+        "stop" : 1567011214909,
+        "duration" : 464
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "items",
+        "value" : "'小牛电动车'"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "点击搜索框",
+      "time" : {
+        "start" : 1567011214909,
+        "stop" : 1567011218639,
+        "duration" : 3730
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "点击商品",
+      "time" : {
+        "start" : 1567011218640,
+        "stop" : 1567011219272,
+        "duration" : 632
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "index",
+        "value" : "'1'"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "截图保存在/image文件夹下",
+      "time" : {
+        "start" : 1567011219281,
+        "stop" : 1567011222513,
+        "duration" : 3232
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "357db9f247797da4",
+      "name" : "ead0286d-1eb3-4bd0-8b69-56d30ae0841d-attachment.png",
+      "source" : "357db9f247797da4.png",
+      "type" : "image/png",
+      "size" : 329291
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ {
+    "name" : "setup::teardown",
+    "time" : {
+      "start" : 1567011222523,
+      "stop" : 1567011230767,
+      "duration" : 8244
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_open_goods"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOpenGoods"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-S0H0J6IN"
+  }, {
+    "name" : "thread",
+    "value" : "7824-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_open_goods"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "args",
+    "value" : "{'item': '小牛电动车', 'index': '1'}"
+  }, {
+    "name" : "setup",
+    "value" : "'Firefox'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38fa6b1e70358139.json",
+  "parameterValues" : [ "{'item': '小牛电动车', 'index': '1'}", "'Firefox'" ]
+}

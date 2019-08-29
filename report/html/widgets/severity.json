@@ -1,0 +1,81 @@
+[ {
+  "uid" : "ca71a5663dfc2de6",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011179166,
+    "stop" : 1567011197008,
+    "duration" : 17842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54b29fce3ebeb2e2",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011037200,
+    "stop" : 1567011047819,
+    "duration" : 10619
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59e7430e0ce7c4b2",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011063125,
+    "stop" : 1567011074176,
+    "duration" : 11051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16db29f75ebf458c",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011106152,
+    "stop" : 1567011146469,
+    "duration" : 40317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70f4990788f7caf7",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011254396,
+    "stop" : 1567011266320,
+    "duration" : 11924
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac5c01c742ae4b2b",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011355412,
+    "stop" : 1567011364821,
+    "duration" : 9409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38fa6b1e70358139",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011214440,
+    "stop" : 1567011222513,
+    "duration" : 8073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22d573c981f960c4",
+  "name" : "截图功能测试",
+  "time" : {
+    "start" : 1567011309421,
+    "stop" : 1567011328669,
+    "duration" : 19248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
